@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Korean Cards</string>
+    <string name="main_btn_card_text">Cards</string>
+    <string name="main_tv_text">Korean language</string>
+    <string name="again">More training</string>
+    <string name="message_text">Finish</string>
+
+    <string name="main_activity">Main activity</string>
+    <string name="title_activity_cards">Cards</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_back_side_">Card</string>
+</resources>
